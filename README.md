@@ -1,5 +1,11 @@
 # Covid-Management-using-Java
-1. This is a Maven project
-2. Used CRUD operations
-3. Used JDBC to access MySql workbench
-4. Command line output
+FEATURES
+* This is a Maven Project
+* Used CRUD operations
+* Used JDBC to access MySql
+* Command Line Output
+
+SPECIFICATIONS
+* Language: Java
+* Database: MySql
+* Tool: Eclipse
